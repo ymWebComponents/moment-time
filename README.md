@@ -1,7 +1,5 @@
 # moment-time
-
-An element providing a starting point for your own reusable Polymer elements.
-
+Polymer web component based upon `momnet.js` extends &lt;date&gt; element. Currently on development.
 
 ## Dependencies
 
@@ -15,7 +13,7 @@ Then, go ahead and download the element's dependencies:
     bower install
 
 
-## Playing With Your Element
+## Playing With The Element
 
 If you wish to work on your element in isolation, we recommend that you use
 [Polyserve](https://github.com/PolymerLabs/polyserve) to keep your element's
@@ -31,7 +29,7 @@ Once running, you can preview your element at
 `http://localhost:8080/components/moment-time/`, where `moment-time` is the name of the directory containing it.
 
 
-## Testing Your Element
+## Testing The Element
 
 Simply navigate to the `/test` directory of your element to run its tests. If
 you are using Polyserve: `http://localhost:8080/components/moment-time/test/`
@@ -58,4 +56,5 @@ Then, you can run your tests on _all_ of your local browsers via:
 
 ## Yeoman support
 
-If you'd like to use Yeoman to scaffold your element that's possible. The official [`generator-polymer`](https://github.com/yeoman/generator-polymer) generator has a [`seed`](https://github.com/yeoman/generator-polymer#seed) subgenerator.
+If you'd like to use Yeoman to scaffold the element that's possible. The official [`generator-polymer`](https://github.com/yeoman/generator-polymer) generator has a [`seed`](https://github.com/yeoman/generator-polymer#seed) subgenerator.
+
