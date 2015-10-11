@@ -1,0 +1,31 @@
+{
+  "name": "moment-time",
+  "version": "1.0.0",
+  "authors": [
+    "yaronMiro <yaron.miro@gmail.com>",
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed",
+    "moment.js",
+    "date",
+    "time"
+  ],
+  "main": "moment-time.html",
+  "license": "MIT",
+  "homepage": "https://github.com/ymWebComponents/moment-time",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+    "moment": "~2.10.6"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
